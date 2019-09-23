@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "test",
+      "type": "com.tangwh.entity.Student",
+      "sourceType": "com.tangwh.entity.Student"
+    }
+  ],
+  "properties": [
+    {
+      "name": "test.name",
+      "type": "java.lang.String",
+      "sourceType": "com.tangwh.entity.Student"
+    }
+  ],
+  "hints": []
+}
