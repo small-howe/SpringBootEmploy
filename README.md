@@ -7,7 +7,8 @@
      4.执行成功后就会 生成entity mapper mapper.xml 
 ```
 ### Swagger 技术应用:
-###[Swagger技术](https://swagger.io/)
+[Swagger技术](https://swagger.io/)
+[swagger2常用注解说明](https://blog.csdn.net/u014231523/article/details/76522486)
 ### 在项目中使用Swagger:SpringBOX
  * swagger2
  * ui
@@ -211,4 +212,3 @@ public class Emp {
     private Integer dId;
     }
 ```
-### [swagger2常用注解说明](https://blog.csdn.net/u014231523/article/details/76522486)
